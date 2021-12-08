@@ -8,7 +8,6 @@ Luisa T. Fernholz and Stephan Morgenthaler
 
 ##  摘要
 
-
 John Wilder Tukey, Donner Professor of Science Emeritus at Princeton University, was born in New Bedford, Massachusetts, on June 16,1915 . After earning bachelor's and master's degrees in chemistry at Brown University in 1936 and 1937 , respectively, he started his career at Princeton University with a Ph.D. in mathematics in 1939 followed by an immediate appointment as Henry B. Fine Instructor in Mathematics. A decade later, at age 35 , he was advanced to a full professorship. He directed the Statistical Research Group at Princeton University from its founding in 1956 ; when the Department of Statistics was formed in 1965 , he was named its first chairman and held that post until 1970 . He was appointed to the Donner Chair in 1976 and remained at Princeton until reaching emeritus status in 1985. At the same time, he was a Member of Technical Staff at AT\T Bell Laboratories since 1945, advancing to Assistant Director of Research, Communications Principles, in 1958 and, in 1961 , to Associate Executive Director, Research Information Sciences, a position he held until retirement in 1985 .
 
 约翰·怀尔德·图基（John Wilder Tukey）是普林斯顿大学Donner荣誉科学教授。他于1915年6月16日出生于马萨诸塞州的新贝德福德。在1936年和1937年分别获得布朗大学化学学士和硕士学位之后，他于1939年以数学博士身份在普林斯顿大学开始了他的职业生涯，紧接着，他就被任命为亨利B.费恩数学指导。十年后，他在35岁时升为正教授。他自1956年成立伊始就领导了普林斯顿大学统计研究小组。当1965年统计系成立时，他被任命为首任系主任，并到1970年为止一直担任此职务。他于1976年被任命为Donner主席【译者注：Donner chair的意思不太确定】，并在1985年获得荣誉称号前一直待在普林斯顿。此外，自1945年起他还担任贝尔实验室的技术成员，1958年晋升为通信原理助理研究主任，1961年晋升为研究信息科学副执行主任后一直任该职位直到1985年退休。
